@@ -1,0 +1,23 @@
+{
+  "name": "aws-node-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astha-S12/aws-node-gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Astha-S12/aws-node-gallery/issues"
+  },
+  "homepage": "https://github.com/Astha-S12/aws-node-gallery#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
