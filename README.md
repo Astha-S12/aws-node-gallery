@@ -118,6 +118,29 @@ http://<your-ec2-public-ip>
 
 ---
 
+## 📸 Screenshots
+
+### Final Output 1 (Your completion page & Name replaced correctly)
+![Final Output 1](screenshots/final-output-1.png)
+
+### Final Output 2 (Images loaded from S3)
+![Final Output 2](screenshots/final-output-2.png)
+
+### EC2 instance running dashboard
+![Output 1](screenshots/output-1.png)
+
+### S3 bucket showing uploaded images
+![Output 2](screenshots/output-2.png)
+
+### Node.js + npm installation proof (EC2 terminal)
+![Output 3](screenshots/output-3.png)
+
+### EC2 Terminal
+![Output 4](screenshots/output-4.png)
+
+
+---
+
 ## 🎯 What I Learned
 
 * Deploying applications on AWS EC2
