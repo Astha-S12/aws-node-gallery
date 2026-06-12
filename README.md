@@ -163,7 +163,7 @@ http://<your-ec2-public-ip>
 
 ## 👨‍💻 Author
 
-**Aastha Shetty**
+**Astha Shetty**
 GitHub: [Astha-S12](https://github.com/Astha-S12)
 
 ---
