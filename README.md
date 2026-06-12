@@ -7,8 +7,11 @@ This project demonstrates how to deploy a **Node.js + Express web application on
 It is designed as a beginner-friendly **cloud deployment project** showcasing AWS fundamentals.
 
 ---
-## 🚀 Temporary Demo
-http://13.233.142.54:3000/
+## 🚀 Live Demo
+This project was deployed on AWS EC2 with S3 integration.  
+The infrastructure has been intentionally shut down to avoid AWS charges.
+
+📌 Deployment: AWS EC2 + S3 + Node.js + Express
 ---
 
 ## 🏗️ Architecture
